@@ -4,7 +4,7 @@
 
 from models.base_model import BaseModel
 from models.place import Place
-from models.User import User
+from models.user import User
 
 
 class Review(BaseModel):

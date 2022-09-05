@@ -5,7 +5,7 @@ A module that defines a class FileStorage for database engine
 """
 
 import json
-from models.User import User
+from models.user import User
 from models.city import City
 from models.state import State
 from models.place import Place

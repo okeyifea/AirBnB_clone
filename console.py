@@ -9,7 +9,7 @@ import cmd
 import json
 import shlex
 from models import storage
-from models.User import User
+from models.user import User
 from models.city import City
 from models.place import Place
 from models.state import State
