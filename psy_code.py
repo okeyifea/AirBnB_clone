@@ -1,3 +1,5 @@
+import random
+
 def calculate_variance(number_list):
     sum_list = 0
     for number in number_list:
